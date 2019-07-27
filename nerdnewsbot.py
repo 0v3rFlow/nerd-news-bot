@@ -72,7 +72,7 @@ def check_multiplayer(http, headers):
                     # Aggiorno il mio dizionario ed inivio la nuova news
 
                     # Inserisco il sito nel mio dizionario così da fare il controllo il prossimo giro
-                    ultime_news.update({1: link_sito})
+                    ultime_news.update({1: news})
                     print(link_sito)
 
                     return link_sito
