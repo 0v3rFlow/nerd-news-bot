@@ -1,1 +1,1 @@
-web: python Nerdnewsbot.py
+web: python nerdnewsbot.py
