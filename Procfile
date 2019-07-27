@@ -1,1 +1,1 @@
-web: python nerdnewsbot.py
+worker: python nerdnewsbot.py
